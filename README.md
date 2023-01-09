@@ -16,4 +16,4 @@ This project was bootstrapped with [Create T3 App](https://create.t3.gg/).
 
 ## Minimal-To-No Concern Given To
 
-- UI/UX
+- UI
